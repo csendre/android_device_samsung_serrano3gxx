@@ -1,1 +1,1 @@
-add_lunch_combo lineage_serrano3gxx-userdebug
+add_lunch_combo xosp_serrano3gxx-userdebug

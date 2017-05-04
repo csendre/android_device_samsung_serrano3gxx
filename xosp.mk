@@ -20,9 +20,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/serrano3gxx/device.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/xosp/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_serrano3gxx
+PRODUCT_NAME := xosp_serrano3gxx
 PRODUCT_DEVICE := serrano3gxx
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := Samsung
